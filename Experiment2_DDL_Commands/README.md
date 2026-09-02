@@ -1,5 +1,6 @@
 # Experiment 2: DDL Commands
-
+NAME: LEKHASHRI E
+REG NO: 212225230150
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
