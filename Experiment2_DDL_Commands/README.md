@@ -256,6 +256,7 @@ CREATE TABLE Table_Name (
 <img width="608" height="280" alt="image" src="https://github.com/user-attachments/assets/02d37c8e-1e3a-4703-8590-e18a4b2858bc" />
 
 ```sql
+<img width="665" height="82" alt="image" src="https://github.com/user-attachments/assets/b702a95b-4ed5-431b-b98b-261092d04cb8" />
 
 
 
@@ -263,6 +264,8 @@ CREATE TABLE Table_Name (
 ```
 
 **Output:**
+<img width="907" height="218" alt="image" src="https://github.com/user-attachments/assets/6d28534a-4b3c-4716-85d2-ca9ec3f389f6" />
+
 
 ![Output10](output.png)
 
