@@ -1,3 +1,6 @@
+NAME: LEKHASHRI E
+REG NO: 212225230150
+
 # Experiment 8: PL/SQL Cursor Programs
 
 ## AIM
