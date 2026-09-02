@@ -1,3 +1,6 @@
+NAME: LEKHASHRI E
+REG NO: 212225231050
+
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
 
 ## AIM
